@@ -74,3 +74,51 @@ A confirmation message will appear, indicating that your check-out was successfu
 
 If you encounter any issues or have further questions, please contact the IT department or refer to the app's user manual for more detailed guidance.
 
+# FAQ
+
+<details>
+  <summary><strong>How do I log in to the mobile app?</strong></summary>
+  <p>To log in to the mobile app, follow these steps:</p>
+  <ol>
+    <li>Open the app on your mobile device.</li>
+    <li>Enter your corporate email address in the "Email" field.</li>
+    <li>Enter your password in the "Password" field.</li>
+    <li>Tap the <strong>"Log In"</strong> button.</li>
+  </ol>
+  <p>You should now be logged in and able to access the app's features.</p>
+</details>
+
+<details>
+  <summary><strong>What should I do if I forget my login credentials?</strong></summary>
+  <p>If you forget your password, you can reset it by following these steps:</p>
+  <ol>
+    <li>On the login screen, tap the <strong>"Forgot Password?"</strong> link.</li>
+    <li>Enter your corporate email address and tap <strong>"Submit"</strong>.</li>
+    <li>Check your email for a password reset link and follow the instructions provided.</li>
+  </ol>
+  <p>If you forget your email or username, please contact the IT department for assistance.</p>
+</details>
+
+<details>
+  <summary><strong>How do I check in for work using the mobile app?</strong></summary>
+  <p>To check in for work, follow these steps:</p>
+  <ol>
+    <li>Log in to the mobile app.</li>
+    <li>Navigate to the <strong>"Attendance"</strong> section.</li>
+    <li>Tap the <strong>"Check-In"</strong> button.</li>
+    <li>Confirm your location and tap <strong>"Confirm Check-In"</strong>.</li>
+  </ol>
+  <p>Your check-in time will be recorded in the system.</p>
+</details>
+
+<details>
+  <summary><strong>How do I check out at the end of the workday?</strong></summary>
+  <p>To check out at the end of your workday, follow these steps:</p>
+  <ol>
+    <li>Log in to the mobile app.</li>
+    <li>Navigate to the <strong>"Attendance"</strong> section.</li>
+    <li>Tap the <strong>"Check-Out"</strong> button.</li>
+    <li>Confirm your location and tap <strong>"Confirm Check-Out"</strong>.</li>
+  </ol>
+  <p>Your check-out time will be recorded in the system.</p>
+</details>
