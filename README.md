@@ -3,7 +3,7 @@
 Welcome to the FAQ section for our internal mobile application. Below, you'll find answers to common questions related to using the app, particularly around logging in and using the attendance check-in/check-out features.
 
 ## Table of Contents
-1. [How to Log In](#how-to-log-in)
+1. [How to Log In](##how-to-log-in)
 2. [What to Do if You Forget Your Login Credentials](#what-to-do-if-you-forget-your-login-credentials)
 3. [How to Use the App for Attendance Check-In](#how-to-use-the-app-for-attendance-check-in)
 4. [How to Use the App for Attendance Check-Out](#how-to-use-the-app-for-attendance-check-out)
